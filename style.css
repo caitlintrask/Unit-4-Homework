@@ -7,10 +7,12 @@
     text-align: center;
 }
 
-#start-button {
+button {
     background-color: purple;
     color: white;
 }
+
+
 
 
 
